@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Oblig2_prgDS" targetNamespace="http://tempuri.org/Oblig2_prgDS.xsd" xmlns:mstns="http://tempuri.org/Oblig2_prgDS.xsd" xmlns="http://tempuri.org/Oblig2_prgDS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="oblig2_prg" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="oblig2_prg (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Oblig2_dotNet.Properties.Settings.GlobalReference.Default.oblig2_prg" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="leietakerTableAdapter" GeneratorDataComponentClassName="leietakerTableAdapter" Name="leietaker" UserDataComponentName="leietakerTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="oblig2_prg (Settings)" DbObjectName="" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT `fornavn`, `etternavn`, `telefon_nr`, `fra_dato`, `til_dato` FROM `leietaker`;</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Oblig2_prgDS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Oblig2_prgDS" msprop:Generator_UserDSName="Oblig2_prgDS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="leietaker" msprop:Generator_TableClassName="leietakerDataTable" msprop:Generator_TableVarName="tableleietaker" msprop:Generator_RowChangedName="leietakerRowChanged" msprop:Generator_TablePropName="leietaker" msprop:Generator_RowDeletingName="leietakerRowDeleting" msprop:Generator_RowChangingName="leietakerRowChanging" msprop:Generator_RowEvHandlerName="leietakerRowChangeEventHandler" msprop:Generator_RowDeletedName="leietakerRowDeleted" msprop:Generator_RowClassName="leietakerRow" msprop:Generator_UserTableName="leietaker" msprop:Generator_RowEvArgName="leietakerRowChangeEvent">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
