@@ -1,0 +1,11 @@
+C:\Users\jonas\Dropbox\Deving\Programmin\Oblig-1-dotNET\Oblig-1-dotNET\Oblig-1-dotNET\bin\Debug\Oblig-1-dotNET.exe.config
+C:\Users\jonas\Dropbox\Deving\Programmin\Oblig-1-dotNET\Oblig-1-dotNET\Oblig-1-dotNET\bin\Debug\Oblig-1-dotNET.exe
+C:\Users\jonas\Dropbox\Deving\Programmin\Oblig-1-dotNET\Oblig-1-dotNET\Oblig-1-dotNET\bin\Debug\Oblig-1-dotNET.pdb
+C:\Users\jonas\Dropbox\Deving\Programmin\Oblig-1-dotNET\Oblig-1-dotNET\Oblig-1-dotNET\obj\Debug\Oblig_1_dotNET.Form1.resources
+C:\Users\jonas\Dropbox\Deving\Programmin\Oblig-1-dotNET\Oblig-1-dotNET\Oblig-1-dotNET\obj\Debug\Oblig_1_dotNET.Properties.Resources.resources
+C:\Users\jonas\Dropbox\Deving\Programmin\Oblig-1-dotNET\Oblig-1-dotNET\Oblig-1-dotNET\obj\Debug\Oblig-1-dotNET.csproj.GenerateResource.Cache
+C:\Users\jonas\Dropbox\Deving\Programmin\Oblig-1-dotNET\Oblig-1-dotNET\Oblig-1-dotNET\obj\Debug\Oblig-1-dotNET.exe
+C:\Users\jonas\Dropbox\Deving\Programmin\Oblig-1-dotNET\Oblig-1-dotNET\Oblig-1-dotNET\obj\Debug\Oblig-1-dotNET.pdb
+C:\Users\jonas\Dropbox\Deving\Programmin\Oblig-1-dotNET\Oblig-1-dotNET\Oblig-1-dotNET\obj\Debug\Oblig-1-dotNET.csprojResolveAssemblyReference.cache
+C:\Users\jonas\Dropbox\Deving\Programmin\Oblig-1-dotNET\Oblig-1-dotNET\Oblig-1-dotNET\obj\Debug\Oblig_1_dotNET.Form2.resources
+C:\Users\jonas\Dropbox\Deving\Programmin\Oblig-1-dotNET\Oblig-1-dotNET\Oblig-1-dotNET\obj\Debug\Oblig_1_dotNET.Form3.resources
